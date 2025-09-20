@@ -1,5 +1,5 @@
 import { Heading, Text } from "@medusajs/ui"
-import LocalizedClientLink from "@modules/common/components/localized-client-link"
+import LocalizedClientLink from "@/modules/common/components/localized-client-link"
 import { StoreProductWithPayload } from "../../../../types/global"
 // @ts-ignore
 import { RichText } from '@payloadcms/richtext-lexical/react'
